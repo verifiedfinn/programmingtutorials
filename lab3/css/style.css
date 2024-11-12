@@ -1,0 +1,26 @@
+
+.colourblock {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+
+.colourblockevents {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.sliderbutton {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+
+.slidercontent {
+    background-color: lightblue;
+    padding:10px;
+    display: none;
+}
+
