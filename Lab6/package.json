@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
+    "nodemon": "^3.1.9"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "sure",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "yourmom",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
